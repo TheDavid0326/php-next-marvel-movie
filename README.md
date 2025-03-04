@@ -4,6 +4,10 @@ Este proyecto es una aplicación web simple que muestra información sobre la pr
 
 ![Imagen](https://i.imgur.com/ibxxQw3.jpeg)
 
+<div align="center">
+  <img src="https://i.imgur.com/ibxxQw3.jpeg" width="300">
+</div>
+
 ## Características
 
 - Muestra el título, la fecha de estreno, la sinopsis y el póster de la próxima película de Marvel.
