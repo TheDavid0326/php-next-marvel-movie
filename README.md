@@ -4,9 +4,9 @@ Este proyecto es una aplicación web simple que muestra información sobre la pr
 
 ![Imagen](https://i.imgur.com/ibxxQw3.jpeg)
 
-<center>
+<div style="text-align: 
    ![Imagen](https://i.imgur.com/ibxxQw3.jpeg)
-</center>
+</div>
 
 ## Características
 
