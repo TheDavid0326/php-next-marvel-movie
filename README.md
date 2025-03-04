@@ -2,7 +2,9 @@
 
 Este proyecto es una aplicación web simple que muestra información sobre la próxima película de Marvel y la siguiente producción de Marvel. Utiliza una API pública para obtener los datos y los muestra en una interfaz limpia y minimalista.
 
-![Descripción de la imagen](https://i.imgur.com/ibxxQw3.jpeg)
+<center>
+   ![Imagen](https://i.imgur.com/ibxxQw3.jpeg)
+</center>
 
 ## Características
 
