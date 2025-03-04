@@ -50,15 +50,15 @@ Este proyecto es una aplicación web simple que muestra información sobre la pr
 
 2. Navega al directorio del proyecto:
 
-```bash
-cd the-next-marvel-movie
-```
+   ```bash
+   cd the-next-marvel-movie
+   ```
 
 3. Abre el archivo index.php en tu servidor local (por ejemplo, usando XAMPP o el servidor integrado de PHP):
 
-```bash
-php -S localhost:8000
-```
+   ```bash
+   php -S localhost:8000
+   ```
 
 4. Abre tu navegador y visita:
 
