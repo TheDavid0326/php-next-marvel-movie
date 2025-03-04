@@ -62,7 +62,7 @@ Este proyecto es una aplicación web simple que muestra información sobre la pr
 
 4. Abre tu navegador y visita:
 
-http://localhost:8000
+   http://localhost:8000
 
 
    
